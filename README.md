@@ -1,7 +1,7 @@
 # 💡 EQUIPO 05 – PROCESOS DE INNOVACIÓN
 
 <p align="center">
-  <b>Repositorio del Equipo 04</b><br>
+  <b>Repositorio del Equipo 05</b><br>
   Curso de Procesos de Innovación
 </p>
 
