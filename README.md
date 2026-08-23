@@ -1,4 +1,4 @@
-# 💡 EQUIPO 04 – PROCESOS DE INNOVACIÓN
+# 💡 EQUIPO 05 – PROCESOS DE INNOVACIÓN
 
 <p align="center">
   <b>Repositorio del Equipo 04</b><br>
@@ -9,7 +9,7 @@
 
 ## 📌 Bienvenidos
 
-Bienvenidos al repositorio del **Equipo 04 del curso de Procesos de Innovación**.
+Bienvenidos al repositorio del **Equipo 05 del curso de Procesos de Innovación**.
 
 Este repositorio tiene como finalidad organizar, documentar y almacenar los diferentes archivos, recursos y avances desarrollados por nuestro equipo a lo largo del curso.
 
