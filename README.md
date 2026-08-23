@@ -149,7 +149,7 @@ Actualmente, el equipo se encuentra en una etapa inicial de organización. Confo
 </p>
 
 <p align="center">
-  👥 <b>Equipo 04 – Procesos de Innovación</b>
+  👥 <b>Equipo 05 – Procesos de Innovación</b>
 </p>
 
 ---
@@ -162,7 +162,7 @@ Actualmente, el equipo se encuentra en una etapa inicial de organización. Confo
 
 ### Descripción
 
-El proyecto del **Equipo 04** se encuentra actualmente en proceso de definición.
+El proyecto del **Equipo 05** se encuentra actualmente en proceso de definición.
 
 Esta sección será actualizada conforme avance el curso e incluirá la información principal relacionada con el proyecto desarrollado por el equipo.
 
@@ -191,7 +191,7 @@ El repositorio se encuentra organizado en diferentes carpetas con la finalidad d
 La estructura general es la siguiente:
 
 ```text
-EQUIPO-04-PROCESOS-DE-INNOVACION/
+EQUIPO-05-PROCESOS-DE-INNOVACION/
 │
 ├── 📁 Documentación/
 │
@@ -322,7 +322,7 @@ Las herramientas, plataformas y lenguajes de programación utilizados durante el
 
 # 🤝 Colaboración
 
-El repositorio será utilizado como espacio de trabajo colaborativo para los integrantes del **Equipo 04**.
+El repositorio será utilizado como espacio de trabajo colaborativo para los integrantes del **Equipo 05**.
 
 Git y GitHub permitirán registrar y organizar los diferentes cambios realizados durante el desarrollo del proyecto.
 
@@ -378,13 +378,13 @@ Se incorporará:
 # 📚 Curso
 
 **Curso:** Procesos de Innovación
-**Equipo:** Equipo 04
+**Equipo:** Equipo 05
 **Año:** 2026
 
 ---
 
 <p align="center">
-  <b>💡 EQUIPO 04 – PROCESOS DE INNOVACIÓN 💡</b>
+  <b>💡 EQUIPO 05 – PROCESOS DE INNOVACIÓN 💡</b>
 </p>
 
 <p align="center">
