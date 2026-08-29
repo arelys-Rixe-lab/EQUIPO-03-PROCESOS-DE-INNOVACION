@@ -132,7 +132,6 @@ Este repositorio tiene como finalidad organizar, documentar y almacenar los dife
 
 </table>
 
-> 📌 **Nota:** Las fotografías mostradas actualmente son imágenes provisionales. Serán reemplazadas posteriormente por las fotografías de cada integrante.
 
 ---
 
