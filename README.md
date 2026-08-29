@@ -44,7 +44,7 @@ Actualmente, el equipo se encuentra en una etapa inicial de organización. Confo
 
   <tr>
     <td align="center">
-      <img src="Imágenes/Imagen%20de%20referencia.png" width="100">
+      <img src="Imágenes/Arelys.jpeg" width="100">
     </td>
     <td>
       <b>Arelys Keith De La Cruz Rixe</b>
@@ -59,7 +59,7 @@ Actualmente, el equipo se encuentra en una etapa inicial de organización. Confo
 
   <tr>
     <td align="center">
-      <img src="Imágenes/Imagen%20de%20referencia.png" width="100">
+      <img src="Imágenes/Dannae.jpeg" width="100">
     </td>
     <td>
       <b>Dannae Rafaella Cardenas Arana</b>
@@ -74,7 +74,7 @@ Actualmente, el equipo se encuentra en una etapa inicial de organización. Confo
 
   <tr>
     <td align="center">
-      <img src="Imágenes/Dannae.jpeg" width="100">
+      <img src="Imágenes/Oriana.jpeg" width="100">
     </td>
     <td>
       <b>Oriana Ingrid Chavez Carrillo</b>
