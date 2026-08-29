@@ -89,7 +89,7 @@ Actualmente, el equipo se encuentra en una etapa inicial de organización. Confo
 
   <tr>
     <td align="center">
-      <img src="Imágenes/Imagen%20de%20referencia.png" width="100">
+      <img src="Imágenes/Thiago.jpeg" width="100">
     </td>
     <td>
       <b>Thiago Josue Huaman Fernandez</b>
