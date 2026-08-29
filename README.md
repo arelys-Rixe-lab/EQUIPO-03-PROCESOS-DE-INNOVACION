@@ -13,8 +13,6 @@ Bienvenidos al repositorio del **Equipo 05 del curso de Procesos de Innovación*
 
 Este repositorio tiene como finalidad organizar, documentar y almacenar los diferentes archivos, recursos y avances desarrollados por nuestro equipo a lo largo del curso.
 
-Actualmente, el equipo se encuentra en una etapa inicial de organización. Conforme avance el curso, se incorporará la información correspondiente al proyecto, documentación, recursos de hardware, software e imágenes.
-
 ---
 
 # 📑 Tabla de Contenidos
