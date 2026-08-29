@@ -145,7 +145,7 @@ Actualmente, el equipo se encuentra en una etapa inicial de organización. Confo
 </p>
 
 <p align="center">
-  <i>La fotografía grupal será añadida próximamente.</i>
+  <img src="Imágenes/FotoGrupal.jpeg" alt="Foto Grupal Equipo 05" width="600">
 </p>
 
 <p align="center">
