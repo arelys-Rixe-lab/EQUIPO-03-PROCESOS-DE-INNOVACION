@@ -1,4 +1,4 @@
-# 💡 EQUIPO 05 – PROCESOS DE INNOVACIÓN
+# 💡 EQUIPO 03 – PROCESOS DE INNOVACIÓN
 
 <p align="center">
   <b>Repositorio del Equipo 05</b><br>
@@ -9,7 +9,7 @@
 
 ## 📌 Bienvenidos
 
-Bienvenidos al repositorio del **Equipo 05 del curso de Procesos de Innovación**.
+Bienvenidos al repositorio del **Equipo 03 del curso de Procesos de Innovación**.
 
 Este repositorio tiene como finalidad organizar, documentar y almacenar los diferentes archivos, recursos y avances desarrollados por nuestro equipo a lo largo del curso.
 
@@ -142,11 +142,11 @@ Este repositorio tiene como finalidad organizar, documentar y almacenar los dife
 </p>
 
 <p align="center">
-  <img src="Imágenes/FotoGrupal.jpeg" alt="Foto Grupal Equipo 05" width="600">
+  <img src="Imágenes/FotoGrupal.jpeg" alt="Foto Grupal Equipo 03" width="600">
 </p>
 
 <p align="center">
-  👥 <b>Equipo 05 – Procesos de Innovación</b>
+  👥 <b>Equipo 03 – Procesos de Innovación</b>
 </p>
 
 ---
@@ -159,7 +159,7 @@ Este repositorio tiene como finalidad organizar, documentar y almacenar los dife
 
 ### Descripción
 
-El proyecto del **Equipo 05** se encuentra actualmente en proceso de definición.
+El proyecto del **Equipo 03** se encuentra actualmente en proceso de definición.
 
 Esta sección será actualizada conforme avance el curso e incluirá la información principal relacionada con el proyecto desarrollado por el equipo.
 
@@ -188,7 +188,7 @@ El repositorio se encuentra organizado en diferentes carpetas con la finalidad d
 La estructura general es la siguiente:
 
 ```text
-EQUIPO-05-PROCESOS-DE-INNOVACION/
+EQUIPO-03-PROCESOS-DE-INNOVACION/
 │
 ├── 📁 Documentación/
 │
@@ -319,7 +319,7 @@ Las herramientas, plataformas y lenguajes de programación utilizados durante el
 
 # 🤝 Colaboración
 
-El repositorio será utilizado como espacio de trabajo colaborativo para los integrantes del **Equipo 05**.
+El repositorio será utilizado como espacio de trabajo colaborativo para los integrantes del **Equipo 03**.
 
 Git y GitHub permitirán registrar y organizar los diferentes cambios realizados durante el desarrollo del proyecto.
 
@@ -375,13 +375,13 @@ Se incorporará:
 # 📚 Curso
 
 **Curso:** Procesos de Innovación
-**Equipo:** Equipo 05
+**Equipo:** Equipo 03
 **Año:** 2026
 
 ---
 
 <p align="center">
-  <b>💡 EQUIPO 05 – PROCESOS DE INNOVACIÓN 💡</b>
+  <b>💡 EQUIPO 03 – PROCESOS DE INNOVACIÓN 💡</b>
 </p>
 
 <p align="center">
